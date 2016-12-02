@@ -1,1 +1,0 @@
-nuget pack RestfulCaller.csproj -Prop Configuration=Release
